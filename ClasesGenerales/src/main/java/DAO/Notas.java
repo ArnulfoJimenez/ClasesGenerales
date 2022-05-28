@@ -68,6 +68,7 @@ public class Notas {
                 es.setNota(resultado.getNString("nota"));
                 es.setNombreMateria(resultado.getNString("NombreMateria"));
                 es.setNombre(resultado.getNString("Nombre"));
+                es.setFechaDeNacimiento(resultado.getString("Fecha"));
                 
 
                 Listado.add(es);

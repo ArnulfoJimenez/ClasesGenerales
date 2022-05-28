@@ -4,7 +4,7 @@
  */
 package Entidades;
 
-import java.sql.Date;
+import java.util.Date;
 
 /**
  *

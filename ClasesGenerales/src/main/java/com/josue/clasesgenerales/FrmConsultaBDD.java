@@ -8,7 +8,6 @@ import DAO.Estudiantes;
 import DAO.Notas;
 import Entidades.Estudiante;
 import com.josue.BD.ConexionaMYSQL;
-import java.sql.Date;
 import java.util.ArrayList;
 import java.util.Iterator;
 import javax.swing.DefaultComboBoxModel;
